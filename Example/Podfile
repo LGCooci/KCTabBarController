@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'KCTabBarController_Example' do
+  pod 'KCTabBarController', :path => '../'
+
+  target 'KCTabBarController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

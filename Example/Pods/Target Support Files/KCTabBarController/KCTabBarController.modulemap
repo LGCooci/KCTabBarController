@@ -1,0 +1,6 @@
+framework module KCTabBarController {
+  umbrella header "KCTabBarController-umbrella.h"
+
+  export *
+  module * { export * }
+}
