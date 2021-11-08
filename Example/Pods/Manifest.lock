@@ -1,0 +1,16 @@
+PODS:
+  - KCTabBarController (0.0.1)
+
+DEPENDENCIES:
+  - KCTabBarController
+
+SPEC REPOS:
+  trunk:
+    - KCTabBarController
+
+SPEC CHECKSUMS:
+  KCTabBarController: 582fc7ee0f3279055e8f06d741cc0c66b55496cc
+
+PODFILE CHECKSUM: 1a50ccaf6e272b624e645996b30897c08e88073b
+
+COCOAPODS: 1.11.2
