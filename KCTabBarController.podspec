@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-Pod::Spec.new do |s|
-  
-  s.name = 'KCTabBarController'
-  s.version      = "0.0.1"
-  s.license= { :type => "MIT", :file => "LICENSE" }
-  s.summary      = "封装一个简单好用的TabBarController,以后一键导入"
-  s.homepage     = "https://github.com/LGCooci/KCTabBarController.git"
-  s.authors            = { "cooci" => "cooci_tz@163.com" }
-  s.source = { :git => "https://github.com/LGCooci/KCTabBarController.git", :tag => 'v0.0.1'}
-  s.requires_arc = true
-  s.ios.deployment_target = '9.0'
-  s.source_files = "KCTabBarController/*.{h,m}"
-  s.frameworks = 'UIKit','Foundation'
-=======
 #
 # Be sure to run `pod lib lint KCTabBarController.podspec' to ensure this is a
 # valid spec before submitting.
@@ -54,5 +39,4 @@ TODO: Add long description of the pod here.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   s.frameworks = 'UIKit','Foundation'
   # s.dependency 'AFNetworking', '~> 2.3'
->>>>>>> master
 end

@@ -6,7 +6,6 @@
 //
 
 #import "KCTabBarController.h"
-#import "KCTabBar.h"
 
 #define     KC_DOUBLE_CLICK_TIME_INTERVAL       0.4
 

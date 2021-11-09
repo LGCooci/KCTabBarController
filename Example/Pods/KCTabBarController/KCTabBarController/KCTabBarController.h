@@ -6,6 +6,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "KCTabBar.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
