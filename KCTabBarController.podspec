@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KCTabBarController'
-  s.version          = '0.1.0'
+  s.version          = '0.0.2'
   s.summary          = 'A short description of KCTabBarController.'
 
 # This description is used to generate tags and improve search results.
@@ -21,22 +21,22 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/cooci_tz@163.com/KCTabBarController'
+  s.homepage     = "https://github.com/LGCooci/KCTabBarController.git"
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'cooci_tz@163.com' => 'cooci_tz@163.com' }
-  s.source           = { :git => 'https://github.com/cooci_tz@163.com/KCTabBarController.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.authors            = { "cooci" => "cooci_tz@163.com" }
+  s.source = { :git => "https://github.com/LGCooci/KCTabBarController.git", :tag => s.version}
+   s.social_media_url = 'https://juejin.im/user/5c3f3c415188252b7d0ea40c'
 
   s.ios.deployment_target = '9.0'
 
-  s.source_files = 'KCTabBarController/Classes/**/*'
+  s.source_files = 'KCTabBarController/**/*'
   
   # s.resource_bundles = {
   #   'KCTabBarController' => ['KCTabBarController/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
+  s.frameworks = 'UIKit','Foundation'
   # s.dependency 'AFNetworking', '~> 2.3'
 end

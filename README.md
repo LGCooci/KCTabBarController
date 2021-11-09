@@ -22,7 +22,7 @@ pod 'KCTabBarController'
 
 ## Author
 
-cooci_tz@163.com, cooci_tz@163.com
+[cooci](https://juejin.cn/user/3650034335487975)
 
 ## License
 
