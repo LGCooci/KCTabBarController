@@ -1,10 +1,4 @@
 # KCTabBarController
-<<<<<<< HEAD
-常用的TabBarController 简单方便
-
-
-> 使用: pod 'KCTabBarController'
-=======
 
 [![CI Status](https://img.shields.io/travis/cooci_tz@163.com/KCTabBarController.svg?style=flat)](https://travis-ci.org/cooci_tz@163.com/KCTabBarController)
 [![Version](https://img.shields.io/cocoapods/v/KCTabBarController.svg?style=flat)](https://cocoapods.org/pods/KCTabBarController)
@@ -33,4 +27,3 @@ pod 'KCTabBarController'
 ## License
 
 KCTabBarController is available under the MIT license. See the LICENSE file for more info.
->>>>>>> master
