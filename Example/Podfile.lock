@@ -1,19 +1,4 @@
 PODS:
-<<<<<<< HEAD
-  - KCTabBarController (0.0.2)
-
-DEPENDENCIES:
-  - KCTabBarController (from `../`)
-
-EXTERNAL SOURCES:
-  KCTabBarController:
-    :path: "../"
-
-SPEC CHECKSUMS:
-  KCTabBarController: 262a7fb26463b1295ff1e0388e643d280b2b7e5f
-
-PODFILE CHECKSUM: 1f2e4ff7797d0cd293b5d48089eb3b13fced6900
-=======
   - KCTabBarController (0.0.1)
 
 DEPENDENCIES:
@@ -27,6 +12,5 @@ SPEC CHECKSUMS:
   KCTabBarController: 582fc7ee0f3279055e8f06d741cc0c66b55496cc
 
 PODFILE CHECKSUM: 1a50ccaf6e272b624e645996b30897c08e88073b
->>>>>>> master
 
 COCOAPODS: 1.11.2
