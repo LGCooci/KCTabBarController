@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 use_frameworks!
 
 platform :ios, '9.0'
@@ -10,4 +11,15 @@ target 'KCTabBarController_Example' do
 
     
   end
+=======
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'KCTabBarController_Example' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+  pod 'KCTabBarController'
+  # Pods for KCTabBarController_Example
+
+>>>>>>> master
 end
